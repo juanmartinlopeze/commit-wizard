@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "name": "Commit Wizard",
+  "description": "Generate clean Git commit messages easily.",
+  "author": "Martin Lopez",
+  "commands": [
+    {
+      "name": "create-commit",
+      "title": "Create Commit Message",
+      "description": "Build a commit message using a UI",
+      "mode": "view",
+      "icon": "assets/icon.png",
+      "path": "src/commit.tsx"
+    }
+  ]
+}

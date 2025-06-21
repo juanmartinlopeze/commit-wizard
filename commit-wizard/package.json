@@ -1,0 +1,20 @@
+{
+  "name": "commit-wizard",
+  "version": "1.0.0",
+  "description": "Generate clean Git commit messages easily.",
+  "main": "src/commit.tsx",
+  "scripts": {
+    "dev": "ray run src/commit.tsx"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@raycast/api": "^1.57.0",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "typescript": "^5.3.0"
+  }
+}
+
