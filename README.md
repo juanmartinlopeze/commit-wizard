@@ -58,6 +58,7 @@ See #42
 commit-wizard/
 ├── src/
 │   └── commit.tsx        # The main command logic
+|   └── pull-request.tsx
 ├── assets/               # Icons or visuals
 ├── raycast.json          # Raycast extension config
 ├── package.json          # Dependencies and scripts
